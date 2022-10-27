@@ -20,6 +20,3 @@ def num_sub():
 
 print(num_sub())
 #demo_function
-
-
-#test funtion
